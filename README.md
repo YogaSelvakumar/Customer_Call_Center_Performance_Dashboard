@@ -52,8 +52,8 @@ You can view the complete dashboard layout below:
 
 ## 🧠 **About the Project**
 
-This dashboard was created to demonstrate strong **data analysis**, **visual storytelling**, and **Excel automation** skills.  
-It’s suitable for showcasing in a **data analyst portfolio** or **LinkedIn project feature**.
+This dashboard was created to demonstrate strong data analysis, visual storytelling, and Excel automation skills.
+It showcases how interactive dashboards can transform raw data into meaningful insights using Power Pivot, Conditional formatting, and Slicers.
 
 ---
 
