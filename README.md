@@ -1,2 +1,63 @@
-# Excel_Callcenter_Performance_Report
-Excel dashboard analyzing call center performance using PowerPivot, slicers, and conditional formatting.
+# 📊 Customer Call Center Performance Dashboard
+
+This project showcases an **interactive Excel dashboard** analyzing key metrics from a **call center performance report** using **Power Pivot**, **Pivot Tables**, **Slicers**, and **Conditional Formatting**.
+
+---
+
+## 🔍 **Project Overview**
+
+The dashboard provides valuable insights into call center performance trends and agent efficiency.  
+It helps visualize how different representatives, cities, and time periods affect overall performance metrics.
+
+---
+
+## 📈 **Key Insights**
+
+- **Total Calls:** 1,000  
+- **Revenue Generated:** $96,623  
+- **Total Duration:** 89,850 minutes  
+- **Average Rating:** 3.9  
+- **Happy Customers:** 307  
+
+---
+
+## ⚙️ **Tools & Techniques Used**
+
+- **Microsoft Excel**
+- **Power Pivot**
+- **Pivot Tables**
+- **Slicers for interactive filtering**
+- **Conditional Formatting for visual cues**
+- **Charts (Bar, Column, and Line charts)**
+
+---
+
+## 🖼️ **Dashboard Preview (PDF Version)**
+
+You can view the complete dashboard layout below:
+
+📄 [**View Dashboard PDF**](./Call%20Center%20Performance%20Dashboard.pdf)
+
+---
+
+## 🚀 **Key Takeaways**
+
+- Designed a professional KPI dashboard to present complex data in a simple, visual format.  
+- Enhanced interactivity using slicers and dynamic chart updates.  
+- Automated summary tables using Power Pivot relationships.  
+
+---
+
+## 🧠 **About the Project**
+
+This dashboard was created to demonstrate strong **data analysis**, **visual storytelling**, and **Excel automation** skills.  
+It’s suitable for showcasing in a **data analyst portfolio** or **LinkedIn project feature**.
+
+---
+
+## 📬 **Contact**
+
+If you'd like to connect or discuss this project:  
+👤 **Yogaselvakumar**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yoga-selvakumar/) 
+📧 [Email me](syoga8489@gmail.com)
