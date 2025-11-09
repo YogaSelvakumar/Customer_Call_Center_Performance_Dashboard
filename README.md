@@ -1,4 +1,6 @@
 # 📊 Customer Call Center Performance Dashboard
+![Dashboard Preview](https://github.com/YogaSelvakumar/Customer_Call_Center_Performance_Dashboard/blob/main/Dashboard%20preview.png)
+
 
 This project showcases an **interactive Excel dashboard** analyzing key metrics from a **call center performance report** using **Power Pivot**, **Pivot Tables**, **Slicers**, and **Conditional Formatting**.
 
