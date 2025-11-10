@@ -13,14 +13,13 @@ It helps visualize how different representatives, cities, and time periods affec
 
 ---
 
-## 📈 **Key Insights**
+## 📊 Key Metrics
 
-- **Total Calls:** 1,000  
-- **Revenue Generated:** $96,623  
-- **Total Duration:** 89,850 minutes  
-- **Average Rating:** 3.9  
-- **Happy Customers:** 307  
-
+| **Total Calls** | Total number of calls handled |
+| **Amount** | Revenue or call value generated |
+| **Duration** | Total duration of all calls |
+| **Average Rating** | Customer satisfaction rating |
+| **Happy Callers** | Percentage of highly rated calls |
 ---
 
 ## ⚙️ **Tools & Techniques Used**
@@ -36,6 +35,10 @@ It helps visualize how different representatives, cities, and time periods affec
 
 ## 📂 Project Files
 
+🖼️ **Dashboard Preview:**
+
+You can view the complete dashboard layout below:
+📄 [**View Dashboard PDF**](./Call%20Center%20Performance%20Dashboard.pdf)
 
 🔗 **Live Online Dashboard:**  
 View the interactive version (Excel Online):  
@@ -43,11 +46,11 @@ View the interactive version (Excel Online):
 
   *(Best viewed in Excel Online for stock images & slicer interactivity.)*
 
- 🖼️ **Dashboard Preview:**
-
-You can view the complete dashboard layout below:
-
-📄 [**View Dashboard PDF**](./Call%20Center%20Performance%20Dashboard.pdf)
+⚠️ Important Note:
+This dashboard was built entirely in Excel Online (Microsoft 365).
+Some features such as stock images, linked data types, and dynamic array formulas are not supported in older desktop versions like Excel 2016.
+If opened in an older version, some visuals may appear blank or show #VALUE! errors.
+For the full experience, please use the OneDrive link above.
 
 ---
 
