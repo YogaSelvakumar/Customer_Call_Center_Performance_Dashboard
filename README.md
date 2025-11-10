@@ -34,7 +34,16 @@ It helps visualize how different representatives, cities, and time periods affec
 
 ---
 
-## 🖼️ **Dashboard Preview (PDF Version)**
+## 📂 Project Files
+
+
+🔗 **Live Online Dashboard:**  
+View the interactive version (Excel Online):  
+[Open on OneDrive](https://1drv.ms/x/c/553d7dd6a5a4b637/EY1R6wkGVgJEpVys241Nk_cB5Iu34LPt_RQoU-xfv28IgA?e=Sa6zeR)
+
+  *(Best viewed in Excel Online for stock images & slicer interactivity.)*
+
+ 🖼️ **Dashboard Preview:**
 
 You can view the complete dashboard layout below:
 
